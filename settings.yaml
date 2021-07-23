@@ -1,0 +1,7 @@
+# Membership database settings for PyMySQL
+membership_pymysql:
+  drivername: mysql+pymysql
+  username: tseumyadmin 
+  host: 192.168.100.205
+  password: EmgVnnD725F! 
+  database: Membership 
